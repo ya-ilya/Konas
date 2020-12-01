@@ -12,7 +12,7 @@
 <p align="center">Konas for Everyone is a project aimed at providing Konas Client to everyone free of charge. We believe in free proprietary software and Open Source Software (FOSS) license compliance. At Konas for Everyone, we have dedicated time to reverse engineering Konas Client and its obfuscation methods to accomplish our goals.</p>
 
 <p align="center">How to use this:<br>
-Put KONAS.jar in your .minecraft<br>
-Put KONAS-B0.5.2-RELEASE.jar in your mods folder<br>
+Put konas.jar in your .minecraft<br>
+Put konas-b0.5.2-release.jar in your mods folder<br>
 Launch Minecraft.
 </p>
